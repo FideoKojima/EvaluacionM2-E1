@@ -9,7 +9,6 @@ Este proyecto es una solución a cuatro ejercicios desarrollados en Python. Cada
 - [Descripción de los Ejercicios](#descripción-de-los-ejercicios)
 - [Requisitos del Sistema](#requisitos-del-sistema)
 - [Cómo Ejecutar el Programa](#cómo-ejecutar-el-programa)
-- [Estructura del Proyecto](#estructura-del-proyecto)
 - [Explicación Detallada de Cada Ejercicio](#explicación-detallada-de-cada-ejercicio)
 - [Créditos](#créditos)
 
@@ -31,3 +30,29 @@ Este proyecto es una solución a cuatro ejercicios desarrollados en Python. Cada
 1. **Clonar o descargar el repositorio**: 
    ```bash
    git clone <url_del_repositorio>
+
+## Explicación Detallada de Cada Ejercicio
+
+### 1. Dibujar Matriz
+- **Descripción**: Este ejercicio solicita al usuario ingresar el número de filas y columnas para dibujar una matriz en la consola. Los bordes de la matriz están definidos con el símbolo "+".
+- **Entrada**: Número de filas y columnas.
+- **Salida**: Una matriz dibujada en la consola.
+
+### 2. Juego de Números Secuenciales
+- **Descripción**: El usuario ingresa un número del 1 al 9. A partir de ahí, el programa pide ingresar números secuenciales, omitiendo los múltiplos del número inicial. El juego termina cuando el usuario ingresa -1.
+- **Entrada**: Un número inicial y una secuencia de números.
+- **Salida**: Mensajes de error o éxito según el número ingresado.
+
+### 3. Calculadora de Años Bisiestos
+- **Descripción**: Calcula cuántos años bisiestos ha vivido una persona desde su año de nacimiento hasta el año actual (o su año de muerte si la persona ha fallecido).
+- **Entrada**: Año de nacimiento y año de muerte (opcional).
+- **Salida**: Cantidad de años bisiestos vividos.
+
+### 4. Reemplazo de Letras en Frase
+- **Descripción**: Permite al usuario ingresar dos palabras de igual longitud y una frase. Luego, reemplaza las letras de la frase según las correspondencias entre las dos palabras ingresadas.
+- **Entrada**: Dos palabras y una frase.
+- **Salida**: La frase modificada con las letras reemplazadas.
+
+## Créditos
+
+Este proyecto fue desarrollado por **Luis Suarez** como parte de una tarea asignada en la asignatura **[Nombre de la Asignatura]**. Todos los ejercicios fueron diseñados y codificados siguiendo los requisitos especificados.
