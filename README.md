@@ -29,7 +29,7 @@ Este proyecto es una solución a cuatro ejercicios desarrollados en Python. Cada
 
 1. **Clonar o descargar el repositorio**: 
    ```bash
-   git clone <https://github.com/FideoKojima/EvaluacionM2-E1>
+   git clone https://github.com/FideoKojima/EvaluacionM2-E1
 
 ## Explicación Detallada de Cada Ejercicio
 
