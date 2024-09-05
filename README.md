@@ -55,4 +55,4 @@ Este proyecto es una solución a cuatro ejercicios desarrollados en Python. Cada
 
 ## Créditos
 
-Este proyecto fue desarrollado por **Luis Suarez** como parte de una tarea asignada en la asignatura **[Nombre de la Asignatura]**. Todos los ejercicios fueron diseñados y codificados siguiendo los requisitos especificados.
+Este proyecto fue desarrollado por **Luis Suarez** como parte de una tarea asignada en la asignatura **[Programacion Basica]**. Todos los ejercicios fueron diseñados y codificados siguiendo los requisitos especificados.
