@@ -1,36 +1,33 @@
-# Proyecto de Ejercicios en Python
+# Proyecto: Solución a Cuatro Ejercicios en Python
 
-## Descripción
-Este proyecto contiene cuatro ejercicios en Python que cubren diferentes conceptos, desde la manipulación de matrices hasta la validación de años bisiestos y el reemplazo de letras en frases. Cada ejercicio está bien comentado para explicar el flujo del código, la creación y uso de variables, y la lógica detrás de cada implementación.
+## Descripción General
 
-## Estructura del Proyecto
-- `Ejercicios.py`: Archivo principal que contiene los cuatro ejercicios desarrollados.
+Este proyecto es una solución a cuatro ejercicios desarrollados en Python. Cada ejercicio se puede ejecutar de manera independiente desde un menú principal que ofrece al usuario la opción de seleccionar y ejecutar el ejercicio deseado. Los ejercicios abordan diferentes conceptos de programación, incluyendo el manejo de matrices, la validación de entradas de usuario, el cálculo de años bisiestos y la manipulación de cadenas.
 
-### Ejercicio 1: Dibujar una Matriz
-- **Descripción:** Este ejercicio solicita al usuario el número de filas y columnas para dibujar una matriz en la consola.
-- **Entrada:** Cantidad de filas y columnas.
-- **Salida:** Representación visual de una matriz con asteriscos.
+## Contenidos
 
-### Ejercicio 2: Números Secuenciales con Saltos
-- **Descripción:** Solicita un número entre 1 y 9, y genera una secuencia de números omitiendo los múltiplos del número ingresado.
-- **Entrada:** Un número entero entre 1 y 9.
-- **Salida:** Números secuenciales omitidos según el criterio de divisibilidad.
+- [Descripción de los Ejercicios](#descripción-de-los-ejercicios)
+- [Requisitos del Sistema](#requisitos-del-sistema)
+- [Cómo Ejecutar el Programa](#cómo-ejecutar-el-programa)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Explicación Detallada de Cada Ejercicio](#explicación-detallada-de-cada-ejercicio)
+- [Créditos](#créditos)
 
-### Ejercicio 3: Cálculo de Años Bisiestos Vividos
-- **Descripción:** Calcula cuántos años bisiestos ha vivido una persona según su año de nacimiento y, si ha fallecido, su año de muerte (o el año actual si sigue viva).
-- **Entrada:** Año de nacimiento y año de muerte (0 si sigue viva).
-- **Salida:** Cantidad de años bisiestos vividos.
+## Descripción de los Ejercicios
 
-### Ejercicio 4: Reemplazo de Letras entre Dos Palabras
-- **Descripción:** Permite al usuario seleccionar dos palabras de igual longitud y reemplaza las letras en una frase según la correspondencia entre las letras de ambas palabras.
-- **Entrada:** Dos palabras y una frase.
-- **Salida:** La frase con las letras reemplazadas.
+1. **Dibujar Matriz**: El usuario ingresa la cantidad de filas y columnas, y el programa dibuja una matriz con bordes definidos.
+2. **Juego de Números Secuenciales**: El usuario ingresa un número del 1 al 9 y luego continúa ingresando números secuenciales, omitiendo los múltiplos del número inicial.
+3. **Calculadora de Años Bisiestos**: Calcula cuántos años bisiestos ha vivido una persona, basándose en su año de nacimiento y, si corresponde, el año de muerte.
+4. **Reemplazo de Letras en Frase**: Reemplaza letras en una frase de acuerdo con un mapeo establecido entre dos palabras ingresadas por el usuario.
 
-## Requisitos
-- Python 3.x
+## Requisitos del Sistema
 
-## Instrucciones de Uso
-1. Clona este repositorio o descarga el archivo `Luis_Suarez_TI_MX_Asignatura.py`.
-2. Ejecuta el archivo con Python desde la línea de comandos:
+- Python 3.7 o superior
+- Sistema operativo: Windows, macOS o Linux
+- Editor de texto o IDE recomendado: Visual Studio Code, PyCharm, o cualquier editor compatible con Python.
+
+## Cómo Ejecutar el Programa
+
+1. **Clonar o descargar el repositorio**: 
    ```bash
-   python Luis_Suarez_TI_MX_Asignatura.py
+   git clone <url_del_repositorio>
