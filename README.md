@@ -4,7 +4,7 @@
 Este proyecto contiene cuatro ejercicios en Python que cubren diferentes conceptos, desde la manipulación de matrices hasta la validación de años bisiestos y el reemplazo de letras en frases. Cada ejercicio está bien comentado para explicar el flujo del código, la creación y uso de variables, y la lógica detrás de cada implementación.
 
 ## Estructura del Proyecto
-- `Luis_Suarez_TI_MX_Asignatura.py`: Archivo principal que contiene los cuatro ejercicios desarrollados.
+- `Ejercicios.py`: Archivo principal que contiene los cuatro ejercicios desarrollados.
 
 ### Ejercicio 1: Dibujar una Matriz
 - **Descripción:** Este ejercicio solicita al usuario el número de filas y columnas para dibujar una matriz en la consola.
